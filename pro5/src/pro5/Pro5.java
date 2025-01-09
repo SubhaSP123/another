@@ -6,6 +6,7 @@ public class Pro5 {
 		// TODO Auto-generated method stub
 System.out.println("subhaaaa..");
 System.out.println("thasn...");
+System.out.println("hii...");
 	}
 
 }
