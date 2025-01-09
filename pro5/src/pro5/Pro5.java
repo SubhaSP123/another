@@ -7,6 +7,7 @@ public class Pro5 {
 System.out.println("subhaaaa..");
 System.out.println("thasn...");
 System.out.println("hii...");
+System.out.println("Helloooo.......")
 	}
 
 }
